@@ -1,9 +1,10 @@
 # Encriptador-de-textos
 Site que encriptografa o que você deseja
 
-Mostra cada etapa do site com suas imagens,o site é usado para quando você precisa criptografar a sua mensagem e também descriptografa-lá; Tive algumas dificuldades em fazer a parte da criptografia e dos botões, mas com a ajuda da alura one me ajudou bastante e conseguir fazer o que foi solicitado.
+O site é usado para quando você precisa criptografar a sua mensagem e também descriptografa-lá.
+Tive algumas dificuldades em fazer a parte da criptografia e dos botões, mas com a ajuda da alura one me ajudou bastante e consegui fazer o que foi solicitado.
 
-Foi utilizado HTML, CSS e JS para fazer esse site, com a imagem do projeto disponiblizado no Figma.
+Foi utilizado HTML, CSS e JS para fazer esse site, e a imagem do projeto disponiblizado no Figma.
 
 
 https://github.com/user-attachments/assets/7bd664ef-bc04-4a82-bf38-6c22a2b461fa
